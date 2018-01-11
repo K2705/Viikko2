@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Viikko2
+namespace T2
 {
-    class Program
+    class T2
     {
         static void Main(string[] args)
         {

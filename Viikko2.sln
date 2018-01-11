@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Viikko2", "Viikko2\Viikko2.csproj", "{70858207-7F9D-4F9A-87FC-B27FB388615F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T1", "Viikko2\T1.csproj", "{70858207-7F9D-4F9A-87FC-B27FB388615F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T2", "T2\T2.csproj", "{A618B40A-C782-47C4-8E21-B1FD22EDAB09}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{70858207-7F9D-4F9A-87FC-B27FB388615F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70858207-7F9D-4F9A-87FC-B27FB388615F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70858207-7F9D-4F9A-87FC-B27FB388615F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A618B40A-C782-47C4-8E21-B1FD22EDAB09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A618B40A-C782-47C4-8E21-B1FD22EDAB09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A618B40A-C782-47C4-8E21-B1FD22EDAB09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A618B40A-C782-47C4-8E21-B1FD22EDAB09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
