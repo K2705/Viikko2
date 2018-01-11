@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T1", "Viikko2\T1.csproj", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T2", "T2\T2.csproj", "{A618B40A-C782-47C4-8E21-B1FD22EDAB09}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T3", "T3\T3.csproj", "{893BB2DB-4EFD-455E-A355-271EFE7E9589}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A618B40A-C782-47C4-8E21-B1FD22EDAB09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A618B40A-C782-47C4-8E21-B1FD22EDAB09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A618B40A-C782-47C4-8E21-B1FD22EDAB09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{893BB2DB-4EFD-455E-A355-271EFE7E9589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{893BB2DB-4EFD-455E-A355-271EFE7E9589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{893BB2DB-4EFD-455E-A355-271EFE7E9589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{893BB2DB-4EFD-455E-A355-271EFE7E9589}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
