@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Viikko2
+namespace T1
 {
     class T1
     {
